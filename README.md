@@ -66,8 +66,9 @@ Practicing data analysis using NumPy & Pandas
 
 🤝 Let's Connect
 
-💼 GitHub: Om-Mule
-
+GitHub: Om-Mule
+LinkedIn: https://www.linkedin.com/in/om-mule-150808311/
+Email: muleom720@gmail.com
 
 
 ---
