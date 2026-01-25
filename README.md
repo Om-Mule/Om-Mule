@@ -1,76 +1,65 @@
-👋 Hi, I'm Om Mule
+## 👋 Hi, I’m **Om Mule**
 
-🧑‍💻 Python Full Stack Developer | Aspiring Data Scientist
+### 🧑‍💻 Python Full Stack Developer | 📊 Aspiring Data Scientist
 
-I'm a fresher Python Full Stack Developer with a strong interest in Data Science. I enjoy building backend-driven web applications and working with data to extract meaningful insights. I'm continuously learning and improving my skills to become a well-rounded developer and data professional.
-
-
----
-
-🚀 About Me
-
-🎓 Fresher passionate about Python-based development
-
-💻 Interested in Full Stack Development and Data Science
-
-🧠 Learning by building projects and exploring real-world problems
-
-📈 Focused on writing clean, efficient, and scalable code
-
-
+I’m a **fresher Python Full Stack Developer** with a growing passion for **Data Science**. I enjoy building **backend-driven web applications** and working with data to uncover **meaningful insights**.
+Currently, I’m focused on strengthening my fundamentals through **hands-on projects** and real-world problem solving.
 
 ---
 
-🛠️ Skills & Technologies
+## 🚀 About Me
 
-🔹 Programming & Databases
-
-Python
-
-SQL
-
-
-🔹 Web Development
-
-Django (Backend Framework)
-
-
-🔹 Data Science & Analysis
-
-NumPy
-
-Pandas
-
-
+🎓 Fresher with a strong foundation in Python-based development
+💻 Passionate about Full Stack Development & Data Science
+🧠 Believe in *learning by building* and experimenting
+📈 Focused on clean, efficient, and scalable code
 
 ---
 
-🎯 Career Goal
+## 🛠️ Skills & Technologies
 
-To grow as a Python Full Stack Developer and transition into a Data Scientist role by gaining hands-on experience in backend development, data analysis, and real-world projects.
+### 🔹 Programming & Databases
 
+🐍 **Python**
+🗄️ **SQL (MySQL)**
 
----
+### 🔹 Web Development
 
-📌 What I'm Working On
+🌐 **Django** (Backend Framework)
+🔐 Authentication | CRUD | MVC Architecture
 
-Building Python & Django-based web applications
+### 🔹 Data Science & Analysis
 
-Strengthening SQL and backend logic
-
-Practicing data analysis using NumPy & Pandas
-
-
-
----
-
-🤝 Let's Connect
-
-GitHub: Om-Mule
-LinkedIn: https://www.linkedin.com/in/om-mule-150808311/
-Email: muleom720@gmail.com
-
+📊 **NumPy**
+📈 **Pandas**
+📁 Data Cleaning | Analysis | Basic Insights
 
 ---
 
-⭐ Always eager to learn, build, and collaborate!
+## 🎯 Career Objective
+
+To grow as a **Python Full Stack Developer** and gradually transition into a **Data Scientist** role by gaining strong experience in:
+✔ Backend Development
+✔ Database Design & SQL
+✔ Data Analysis & Real-World Projects
+
+---
+
+## 📌 Currently Working On
+
+🚧 Building Python & Django-based web applications
+🧠 Strengthening backend logic and SQL queries
+📊 Practicing data analysis using NumPy & Pandas
+📂 Creating projects suitable for GitHub & portfolio
+
+---
+
+## 🤝 Let’s Connect
+
+🔗 **GitHub:** [Om-Mule](https://github.com/Om-Mule)
+💼 **LinkedIn:** [Om Mule](https://www.linkedin.com/in/om-mule-150808311/)
+📧 **Email:** [muleom720@gmail.com](mailto:muleom720@gmail.com)
+
+---
+
+⭐ *Always eager to learn, build, and collaborate on meaningful projects.*
