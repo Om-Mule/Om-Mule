@@ -30,8 +30,8 @@ Currently, I’m focused on strengthening my fundamentals through **hands-on pro
 
 ### 🔹 Data Science & Analysis
 
-📊 **NumPy**
-📈 **Pandas**
+📊 **django**
+
 📁 Data Cleaning | Analysis | Basic Insights
 
 ---
@@ -58,7 +58,7 @@ To grow as a **Python Full Stack Developer** and gradually transition into a **D
 
 🔗 **GitHub:** [Om-Mule](https://github.com/Om-Mule)
 💼 **LinkedIn:** [Om Mule](https://www.linkedin.com/in/om-mule-150808311/)
-📧 **Email:** [muleom720@gmail.com](mailto:muleom720@gmail.com)
+📧 **Email:** [muleom720@gmail.com](mailto:om.mule.tech@gmail.com)
 
 ---
 
